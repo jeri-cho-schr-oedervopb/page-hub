@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://jeri-cho-schr-oedervopb.github.io/page-hub/sitemap.xml
